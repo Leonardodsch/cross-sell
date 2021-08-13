@@ -87,15 +87,23 @@ O projeto utiliza a metodologia CRISP-DM, que consiste desenvolver o projeto de 
 
 - **Clientes que estão com o seguro de saúde a mais de 100 dias tem mais interesse por um seguro de carro**
 
-![image](https://user-images.githubusercontent.com/76128123/129283345-a09438a1-11cd-4579-a5db-0f8e237e6d4b.png)
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129283345-a09438a1-11cd-4579-a5db-0f8e237e6d4b.png"/>
+</p>
+
 
 - **Clientes com veículos com idade entre 1 e 2 anos tem mais interesse por seguro de carro**
 
-![image](https://user-images.githubusercontent.com/76128123/129284007-062bfaec-be2e-4160-8f39-2fc2e3bd043d.png)
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129284007-062bfaec-be2e-4160-8f39-2fc2e3bd043d.png"/>
+</p>
+
 
 - **Homens se interessam 57% a mais do que mulheres em um seguro de carro**
 
-![image](https://user-images.githubusercontent.com/76128123/129284047-a21562bf-1a06-4dac-8b46-6ace0afbd470.png)
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129284047-a21562bf-1a06-4dac-8b46-6ace0afbd470.png"/>
+</p>
 
 ## Machine Learning Models
 
@@ -118,10 +126,17 @@ O gráfico da curva de ganhos cumulativos mostra a quantitade de pessoas interes
 Já a curva Lift mostra o quão melhor o modelo de machine learning é em comparação com um modelo aleatório em determinada amostra de clientes. 
 
 - Curva de ganhos cumulativos
-![image](https://user-images.githubusercontent.com/76128123/129285702-50363d43-cce3-428f-9f73-b398345dc93d.png)
+
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129285702-50363d43-cce3-428f-9f73-b398345dc93d.png"/>
+</p>
+
 
 - Curva Lift
-![image](https://user-images.githubusercontent.com/76128123/129285753-4c6e6158-a566-43c0-9829-3b56eb355852.png)
+
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129285753-4c6e6158-a566-43c0-9829-3b56eb355852.png"/>
+</p>
 
 
 ## Resultados
@@ -133,24 +148,37 @@ Já a curva Lift mostra o quão melhor o modelo de machine learning é em compar
 Utilizando uma amostra com aproximadamente 76.000 clientes, e fazendo as 20.000 ligações (o que representa aproximadamente 26% da base) é possível identificar 71% dos clientes interessados em adquirir o seguro de automóvel, como é possivel observar no grafico de ganhos cumulativos abaixo.  
 A curva de Lift mostra um comparativo de quão melhor o modelo de machine learning é em relação a um modelo Baseline com previsões aleatórias. Nota-se que nos mesmos 26% da base de clientes o modelo é aproximadamente 2,7 vezes melhor do que um modelo baseline que identificaria apenas 26% dos clientes.
 
-![image](https://user-images.githubusercontent.com/76128123/129287017-e106acc6-ff35-43ec-b8f6-d3f0dadf6010.png)
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129287017-e106acc6-ff35-43ec-b8f6-d3f0dadf6010.png"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/76128123/129287061-a9028546-d265-4657-acd6-b1b40ae84463.png)
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129287061-a9028546-d265-4657-acd6-b1b40ae84463.png"/>
+</p>
+
 
 
 **2. E se a capacidade do time de vendas aumentar para 40.000 ligações, qual a porcentagem de clientes interessados em adquirir um seguro de automóvel o time de vendas conseguirá contatar?**
 
 Com uma capacidade de fazer 40.000 ligações (o que representa aproximadamente 53% da base) seria possível contatar mais de 99% dos clientes interessados. O Gráfico da curva Lift mostra que nesse percentual da base o modelo de machine learning seria quase 2 vezes mais eficiente do que um modelo aleatório, que teria identificado apenas metade dos clientes interessados no seguro.   
 
-![image](https://user-images.githubusercontent.com/76128123/129287166-2a12efbc-6793-4634-81ed-c4fa1bd51a80.png)
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129287166-2a12efbc-6793-4634-81ed-c4fa1bd51a80.png"/>
+</p>
 
-![image](https://user-images.githubusercontent.com/76128123/129287200-29474eed-8a68-4851-b02b-82fc60edd180.png)
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129287200-29474eed-8a68-4851-b02b-82fc60edd180.png"/>
+</p>
+
+
 
 **3. Quantas ligações o time de vendas precisa fazer para contatar 80% dos clientes interessados em adquirir um seguro de automóvel?**
 
 Para contatar 80% dos clientes interessados seriam necessárias aproximadamente 24.000 ligações (o que representa 31% da base total analisada). Utilizando um modelo baseline, com as mesmas 24.000 ligações, seria possível contatar apenas 31% dos clientes interessados.
 
-![image](https://user-images.githubusercontent.com/76128123/129287411-75ee8ce3-d8eb-4907-9213-020abce8d067.png)
+<p align="center">
+  <img width="650" height="400" src="https://user-images.githubusercontent.com/76128123/129287411-75ee8ce3-d8eb-4907-9213-020abce8d067.png"/>
+</p>
 
 
 ## Conclusão
