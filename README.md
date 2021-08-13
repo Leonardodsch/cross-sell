@@ -2,6 +2,12 @@
 
 Disclaimer: O Contexto a seguir, é completamente fictício, a empresa, o contexto, as perguntas de negócio foram criadas apenas para o desenvolvimento do projeto, e se baseiam em um projeto do site https://sejaumdatascientist.com/.
 
+<p align="center">
+  <img width="700" height="350" src="https://user-images.githubusercontent.com/76128123/129287844-877c2e29-dcd0-4995-b9e6-00649ade9028.png"/>
+</p>
+
+
+
 ## Contexto de negócio
 
 A Insurance All é uma empresa que fornece seguro de saúde para seus clientes e o time de produtos está analisando a possibilidade de oferecer aos assegurados, um novo produto: Um seguro de automóveis.
