@@ -183,3 +183,7 @@ Para contatar 80% dos clientes interessados seriam necessárias aproximadamente 
 
 ## Conclusão
 
+Após todo o estudo, análise e testes com diferentes modelos de machine learning foi possível responder as perguntas de negócio e gerar insights para que o time de vendas consiga realizar o contato com os clientes de uma forma muito mais otmizada e acertiva, reduzindo ou eliminando o tempo gasto com clientes que não possuem interesse no seguro e consequentemente reduzindo custos da empresa. Usando um modelo de rankeamento é possível maximizar a eficiêcia da detecção de clientes possivelmente interessados, sendo possível, a partir dos testes feitos e avaliação de métricas, encontrar 100% dos clientes interessados em cerca de metade da base total de clientes, um resultados bastente considerável ainda mais considerando que o número de contatos que o time de vendas consegue fazer é limitado.
+
+Utilizar técnicas de ciencia de dados e inteligência artificial para otimizar a tomada de decisões e fazer com que a empresa cresça cada vez mais, se torna algo essencial tendo em vista o crescimento da competitividade nos mais diversos setores. Soluções baseadas em dados se motram uma ferramenta muito poderosa e que pode se tornar uma vantagem competitiva se usadas de forma estratégica e inteligente, fazendo com que empresas que não percebem o valor disso consequentemente se tornem obsoletas. 
+
