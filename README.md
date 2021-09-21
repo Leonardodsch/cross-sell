@@ -80,8 +80,7 @@ O conjunto de dados inclui as seguintes informações:
 
 - A API está hospedada na plataforma Heroku e pode ser consultada através deste url: https://insurance-cross-sell.herokuapp.com
 
-- A planilha do Google Sheets está disponível neste link: https://docs.google.com/spreadsheets/d/1E3MH8dVlp8dGF_j01ga8-4wT57IhXtzSz6rpCkt5HHg/edit?usp=sharing.
-Para visulizar as predições do modelo é preciso ir até a opção "Get Score" ao lado do menu "Ajuda" e depois clicar em "Get Prediction", logo em seguida a coluna "Score" será preenchida com a probabilidade de cada cliente adquirir o seguro. 
+- A planilha do Google Sheets está disponível neste link: [![image](https://img.shields.io/badge/Google%20Sheets-34A853?style=for-the-badge&logo=google-sheets&logoColor=white)](https://docs.google.com/spreadsheets/d/1E3MH8dVlp8dGF_j01ga8-4wT57IhXtzSz6rpCkt5HHg/edit?usp=sharing). Para visulizar as predições do modelo é preciso ir até a opção "Get Score" ao lado do menu "Ajuda" e depois clicar em "Get Prediction", logo em seguida a coluna "Score" será preenchida com a probabilidade de cada cliente adquirir o seguro. 
 
 
 O projeto utiliza a metodologia CRISP-DM, que consiste desenvolver o projeto de forma ciclica entendendo todos os passos do projeto e buscando entregar valor ao negócio o mais rápido possível e aperfeiçoar a solução a cada ciclo.
