@@ -1,3 +1,5 @@
+Link para o notebook através do nbviewer (Recomendado para uma melhor visualização): https://nbviewer.jupyter.org/github/Leonardodsch/cross-sell/blob/main/notebooks/cycle06-deployment.ipynb
+
 # Cross Selling
 
 Disclaimer: O Contexto a seguir, é completamente fictício, a empresa, o contexto, as perguntas de negócio foram criadas apenas para o desenvolvimento do projeto, e se baseiam em um projeto do site https://sejaumdatascientist.com/.
@@ -75,6 +77,12 @@ O conjunto de dados inclui as seguintes informações:
 **9. Tradução do erro em métricas de negócio** - Com o melhor modelo escolhido, treinado e otimizado a taxa de erro encontrada é trasnformada em mátricas de negócio para que se saiba concretamente quanto de retorno financeiro aquela solução trouxe para a empresa. 
 
 **10. Deploy do modelo em produção** - O modelo foi colocado em produção no ambiente cloud Heroku para que as predições possam ser acessados através de requisições a uma API e consulta em uma planilha no google sheets.
+
+- A API está hospedada na plataforma Heroku e pode ser consultada através deste url: https://insurance-cross-sell.herokuapp.com
+
+- A planilha do Google Sheets está disponível neste link: https://docs.google.com/spreadsheets/d/1E3MH8dVlp8dGF_j01ga8-4wT57IhXtzSz6rpCkt5HHg/edit?usp=sharing.
+Para visulizar as predições do modelo é preciso ir até a opção "Get Score" ao lado do menu "Ajuda" e depois clicar em "Get Prediction", logo em seguida a coluna "Score" será preenchida com a probabilidade de cada cliente adquirir o seguro. 
+
 
 O projeto utiliza a metodologia CRISP-DM, que consiste desenvolver o projeto de forma ciclica entendendo todos os passos do projeto e buscando entregar valor ao negócio o mais rápido possível e aperfeiçoar a solução a cada ciclo.
 
