@@ -60,7 +60,7 @@ O conjunto de dados inclui as seguintes informações:
 
 ## Planejamento da solução
 
-**1. Entendimento do negócio e problemas e serem resolvidos** - Buscar entender os reais motivos da necessidade da previsão de vendas e como o probelma pode ser resolvido através de machine learning, quais aspectos serão considerados na hora da predição e quão melhor a solução proposta pode ser considerando os modelos de predição utilizados atualmente na empresa.    
+**1. Entendimento do negócio e problemas e serem resolvidos** - Buscar entender os reais motivos da necessidade da classificação e rankeamento dos clientes e como o probelma pode ser resolvido através de machine learning, quais aspectos serão considerados na hora da predição e quão melhor a solução proposta pode ser considerando os modelos de predição utilizados atualmente na empresa.    
 
 **2. Coleta de dados** - Acesso a plataforma do Kaggle para download dos arquivos que serão usados.
 
